@@ -26,7 +26,7 @@ template_urls = {
 most_top = {
     'sina': 6000,
     'sohu': 1000,
-    'xinhuanet': 1000
+    'xinhuanet': 1000000
 }
 latest_news_functions = {
     'sina': 'get_sina_latest_news',
